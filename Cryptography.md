@@ -6,6 +6,6 @@
 
   https://github.com/mpgn/Padding-oracle-attack
   
-### beautiful tool:
+### Beautiful tool:
  
   https://github.com/GDSSecurity/PadBuster

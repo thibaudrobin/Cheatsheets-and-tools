@@ -7,14 +7,13 @@
   
   https://www.dcode.fr/
   
-  Regex validation and testing:
+### Regex validation and testing:
   
   https://regex101.com/
   
-  Json syntax validation:
+### Json syntax validation:
   
   https://jsonlint.com/
-  
   
   
   
@@ -49,7 +48,14 @@
    https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=fr
   
 
+# Request inspectors
 
+   www.requestbin.net (doesn't work for root-me challenges)
+   
+   https://requestinspector.com/ (works just fine)
+   
+   https://beeceptor.com/
+   
 # SQL tools
 
   http://sqlmap.org/

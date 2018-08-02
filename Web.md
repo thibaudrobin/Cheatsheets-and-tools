@@ -74,4 +74,8 @@
 ## Big database of payloads:
 
    https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion%20-%20Path%20Traversal/README.md
+   
+# SSRF
+
+   http://blog.safebuff.com/2016/07/03/SSRF-Tips/ 
     

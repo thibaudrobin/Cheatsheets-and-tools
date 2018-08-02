@@ -10,8 +10,11 @@
 # Online Tools:
 
 ## Steganography:
+
    https://www.tineye.com/
+   
    http://fotoforensics.com/
+   
    https://29a.ch/photo-forensics/#forensic-magnifier
 	
 	

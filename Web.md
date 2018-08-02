@@ -1,3 +1,26 @@
+# Main tools for Web challenges
+
+	
+### Text/cipher treatments:
+
+  https://gchq.github.io/CyberChef/
+  
+  https://www.dcode.fr/
+  
+  Regex validation and testing:
+  
+  https://regex101.com/
+  
+  Json syntax validation:
+  
+  https://jsonlint.com/
+  
+  
+  
+  
+  
+	
+
 # Browser extensions (Mostly on Google Chrome)
   
 ## URL manipulation:
@@ -32,6 +55,7 @@
   http://sqlmap.org/
   
  ## Big database of payloads:
+ 
    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20injection
   
   
@@ -44,4 +68,10 @@
    https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
     
    https://gist.github.com/rvrsh3ll/09a8b933291f9f98e8ec
+   
+# LFI - RCE
+
+## Big database of payloads:
+
+   https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion%20-%20Path%20Traversal/README.md
     

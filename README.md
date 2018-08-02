@@ -1,6 +1,6 @@
 # Cheatsheets-and-tools
 
-  Powerful tools (You must try to use it)
+  Powerful tools (You must try to use them)
   
     https://www.google.fr
     https://duckduckgo.com

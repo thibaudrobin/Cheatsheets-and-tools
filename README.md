@@ -16,3 +16,7 @@
 
    https://wiki.skullsecurity.org/Passwords
    
+   
+# Useful websites (writeup and more)
+
+   https://www.dailysecurity.fr/

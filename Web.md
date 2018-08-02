@@ -71,6 +71,8 @@
     
    https://gist.github.com/rvrsh3ll/09a8b933291f9f98e8ec
    
+   https://n0p.net/penguicon/php_app_sec/mirror/xss.html
+   
 # LFI - RCE
 
 ## Big database of payloads:

@@ -66,6 +66,8 @@
    http://www.xss-payloads.com/payloads-list.html?a#category=all
     
    https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
+   
+   https://www.owasp.org/index.php/4.8.1_Test_de_Reflected_Cross-Site_Scripting_(OTG-INPVAL-001)
     
    https://gist.github.com/rvrsh3ll/09a8b933291f9f98e8ec
    

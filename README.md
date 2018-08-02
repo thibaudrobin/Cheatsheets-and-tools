@@ -5,3 +5,10 @@
     https://www.google.fr
     https://duckduckgo.com
     
+  Bibles:
+  
+   https://inventory.rawsec.ml/resources.html
+   
+   https://github.com/zardus/ctf-tools
+   
+   

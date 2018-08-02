@@ -8,26 +8,26 @@
     
 # Browser extensions (Mostly on Google Chrome)
   
-  URL manipulation:
+## URL manipulation:
   
-   Hackbar (chrome & mozilla)
+    Hackbar (chrome & mozilla)
    
-   https://chrome.google.com/webstore/detail/hackbar/ejljggkpbkchhfcplgpaegmbfhenekdc
-   https://addons.mozilla.org/fr/firefox/addon/hackbar/
+      https://chrome.google.com/webstore/detail/hackbar/ejljggkpbkchhfcplgpaegmbfhenekdc
+      https://addons.mozilla.org/fr/firefox/addon/hackbar/
   
-  User-Agent manipulation:
+## User-Agent manipulation:
   
-   chrome UA Spoofer
+    chrome UA Spoofer
    
    https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=fr
    
-  Page info:
+## Page info:
   
-   HTTP Headers (chrome)
+    HTTP Headers (chrome)
    
    https://chrome.google.com/webstore/detail/live-http-headers/eaiimeeggnhceafhencnejheejddlcpa
    
-  Cookie edition:
+## Cookie edition:
   
    EditThisCookie
    

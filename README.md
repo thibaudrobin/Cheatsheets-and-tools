@@ -12,3 +12,7 @@
    https://github.com/zardus/ctf-tools
    
    
+# Big passwords lists (most populars)
+
+   https://wiki.skullsecurity.org/Passwords
+   

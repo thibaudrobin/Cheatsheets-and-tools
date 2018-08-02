@@ -12,8 +12,8 @@
   
     Hackbar (chrome & mozilla)
    
-      https://chrome.google.com/webstore/detail/hackbar/ejljggkpbkchhfcplgpaegmbfhenekdc
-      https://addons.mozilla.org/fr/firefox/addon/hackbar/
+   https://chrome.google.com/webstore/detail/hackbar/ejljggkpbkchhfcplgpaegmbfhenekdc
+   https://addons.mozilla.org/fr/firefox/addon/hackbar/
   
 ## User-Agent manipulation:
   
@@ -29,7 +29,7 @@
    
 ## Cookie edition:
   
-   EditThisCookie
+    EditThisCookie
    
    https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=fr
   

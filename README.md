@@ -17,6 +17,9 @@
    https://wiki.skullsecurity.org/Passwords
    
    
-# Useful websites (writeup and more)
+# Useful websites (full of writeups and more)
 
+   https://0xswitch.fr/
+   
    https://www.dailysecurity.fr/
+   
